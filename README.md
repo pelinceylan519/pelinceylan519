@@ -44,4 +44,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinceylan519&label=Profile%20views&color=0e75b6&style=flat" alt="pelinceylan519" /> </p>
 
-![snake gif](https://github.com/pelinceylan519/pelinceylan519/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pelinceylan519/pelinceylan519/blob/output/dist/github-contribution-grid-snake.gif)
