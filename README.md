@@ -1,9 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFY56cRCMJ_EQ/profile-displaybackgroundimage-shrink_350_1400/B4DZmRocdFJUAY-/0/1759084925605?e=1761782400&v=beta&t=v7_LsITVmnlqw26ks2eKL35UshqAHu_qhyD193XWEaM)
-
-
 
 
 <h1 align="center">Hi 👋, I'm Pelin CEYLAN</h1>
+
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFY56cRCMJ_EQ/profile-displaybackgroundimage-shrink_350_1400/B4DZmRocdFJUAY-/0/1759084925605?e=1761782400&v=beta&t=v7_LsITVmnlqw26ks2eKL35UshqAHu_qhyD193XWEaM)
+
 <h3 align="center">A computer engineering student who loves to improve herself and take responsibility.</h3>
 
 
